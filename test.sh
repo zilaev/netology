@@ -1,1 +1,1 @@
-echo -'git is good'
+echo -'git is easy'
