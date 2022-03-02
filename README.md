@@ -1,2 +1,2 @@
 # netology
-R for study
+Repository for study
